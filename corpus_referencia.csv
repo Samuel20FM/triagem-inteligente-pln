@@ -1,0 +1,671 @@
+id,mensagem,categoria,registo,urgente
+M0001,"aparece divida e por isso bloquearam a minha inscricao, o que faco",financeiro,informal,0
+M0002,"aparece divida e por isso bloquearam a minha inscricao, o que faco",matricula,informal,0
+M0003,Solicito a emissao do certificado de notas do primeiro ano.,notas,formal,0
+M0004,o pagamento nao validou e sem isso nao faco o exame de amanha,financeiro,informal,0
+M0005,"Preciso do certificado de notas ate quinta-feira para candidatura a bolsa, cujo prazo encerra nesse dia.",notas,formal,1
+M0006,bom dia preciso de ajuda,notas,informal,1
+M0007,nao consigo entrar no sistema pra confirmar a inscricao alguem ajuda!!,matricula,informal,0
+M0008,A sala atribuida ao exame desta tarde encontra-se ocupada. Solicito resolucao urgente.,infraestrutura,formal,1
+M0009,Falta de energia no bloco onde decorre o exame de hoje. Solicito intervencao imediata.!!,infraestrutura,formal,1
+M0010,Solicito o comprovativo de inscricao para apresentar na Tesouraria.,financeiro,formal,1
+M0011,"reprovaram me mal em Estatistica e o exame e sexta, preciso resolver ja",notas,informal,1
+M0012,Solicito esclarecimento sobre o valor em divida apresentado no sistema.,financeiro,formal,0
+M0013,quando e a recorrencia de Quimica Geral?,notas,informal,0
+M0014,O pagamento nao foi validado e sem isso nao posso fazer o exame de amanha.,financeiro,formal,1
+M0015,como faco pra tirar o certificado de notas,notas,informal,0
+M0016,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.,matricula,formal,1
+M0017,o exame e amanha e ainda nao resolveram o meu caso!!,notas,informal,0
+M0018,o pagamento nao validou e sem isso nao faco o exame de amanha,financeiro,informal,0
+M0019,bom dia preciso de ajuda!!,matricula,informal,0
+M0020,posso pagar a propina em prestacoes?,financeiro,informal,0
+M0021,nao consigo entrar no sistema pra confirmar a inscricao alguem ajuda,matricula,informal,0
+M0022,ainda da para inscrever em Estatistica?,matricula,informal,0
+M0023,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.,matricula,formal,1
+M0024,paguei semana passada e ainda nao entrou no sistema,financeiro,informal,0
+M0025,por favor preciso inscrever hoje senao perco o semestre inteiro,matricula,informal,0
+M0026,O pagamento nao foi validado e sem isso nao posso fazer o exame de amanha.,financeiro,formal,1
+M0027,O pagamento nao foi validado e sem isso nao posso fazer o exame de amanha.,financeiro,formal,0
+M0028,disseram que vou ser excluido por falta de pagamento e o prazo acaba hoje,financeiro,informal,0
+M0029,Gostaria de saber quais os documentos necessarios para requerer isencao de propinas.,financeiro,formal,0
+M0030,"aparece divida e por isso bloquearam a minha inscricao, o que faco",matricula,informal,0
+M0031,Venho reportar a falta de agua nas instalacoes sanitarias do bloco B.,infraestrutura,formal,0
+M0032,Venho solicitar informacao sobre o plano de pagamento faseado das propinas.,financeiro,formal,0
+M0033,"aparece divida e por isso bloquearam a minha inscricao, o que faco",matricula,informal,0
+M0034,nao ha agua nas casas de banho do bloco b,infraestrutura,informal,0
+M0035,nao percebi como calcularam a media de Algebra Linear,notas,informal,1
+M0036,"Venho solicitar a transferencia de curso, conforme o regulamento em vigor.",matricula,formal,0
+M0037,nao ha internet no campus e o prazo de Redes de Computadores acaba hoje,matricula,informal,1
+M0038,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.!!,matricula,formal,1
+M0039,perdi o prazo de inscricao porque o sistema da faculdade esteve em baixo,matricula,informal,1
+M0040,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,0
+M0041,Solicito esclarecimento sobre o calculo da media final da disciplina de Programacao I.,notas,formal,0
+M0042,nao consigo inscrever em Programacao I porque aparece divida no sistema!!,matricula,informal,0
+M0043,Fui indevidamente reprovado em Estatistica e o exame de recurso e na sexta-feira.,notas,formal,0
+M0044,preciso regularizar hoje senao perco os exames todos,financeiro,informal,1
+M0045,"Solicito reabertura do prazo de matricula, que expira hoje, por motivo de forca maior devidamente comprovado.",matricula,formal,1
+M0046,Solicito esclarecimento sobre os documentos exigidos para a renovacao da matricula.,matricula,formal,0
+M0047,"Prezados, aguardo resposta ao pedido submetido a semana passada.",financeiro,formal,0
+M0048,"Bom dia. Solicito a publicacao da pauta de Quimica Geral, ainda em falta.",notas,formal,0
+M0049,nao percebi como calcularam a media de Quimica Geral,notas,informal,0
+M0050,Solicito autorizacao de acesso ao laboratorio fora do horario regular.!!,infraestrutura,formal,1
+M0051,nao consigo entrar no sistema pra confirmar a inscricao alguem ajuda,matricula,informal,0
+M0052,A minha inscricao em Algebra Linear foi anulada sem aviso e as aulas comecam na segunda-feira.,matricula,formal,1
+M0053,a que horas abre a biblioteca em epoca de exames?,infraestrutura,informal,0
+M0054,bom dia preciso de ajuda,matricula,informal,0
+M0055,o pagamento nao validou e sem isso nao faco o exame de amanha,financeiro,informal,1
+M0056,tiraram me de Fisica Geral sem avisar e as aulas comecam segunda,matricula,informal,1
+M0057,pfv preciso inscrever hoje senao perco o semestre inteiro,matricula,informal,1
+M0058,alguem me pode ajudar pfv,notas,informal,0
+M0059,Boa tarde. Solicito o vosso apoio para resolver a minha situacao.,notas,formal,0
+M0060,"a sala do exame desta tarde esta ocupada, resolvam por favor",infraestrutura,informal,1
+M0061,Efectuei o pagamento na semana passada e o sistema ainda nao regista a liquidacao.,financeiro,formal,0
+M0062,a internet do laboratorio esta pessima ha dias,infraestrutura,informal,0
+M0063,Solicito esclarecimento sobre o valor em divida apresentado no sistema.,financeiro,formal,0
+M0064,a biblioteca nao me deixa levantar livros por causa da divida,financeiro,informal,0
+M0065,Gostaria de saber quais os documentos necessarios para requerer isencao de propinas.,financeiro,formal,0
+M0066,Solicito a atencao dos servicos para o assunto em anexo.,notas,formal,1
+M0067,Solicito esclarecimento: a minha situacao financeira impede a inscricao em Fisica Geral?,matricula,formal,0
+M0068,a que horas abre a biblioteca em epoca de exames?,infraestrutura,informal,0
+M0069,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.",matricula,formal,0
+M0070,"perdi o recibo da propina, da pra tirar outro?",financeiro,informal,0
+M0071,A minha nota de Algebra Linear nao foi lancada e o prazo de recurso termina amanha.,notas,formal,1
+M0072,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.",matricula,formal,0
+M0073,"Preciso do certificado de notas ate quinta-feira para candidatura a bolsa, cujo prazo encerra nesse dia.!!",notas,formal,1
+M0074,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,0
+M0075,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.",matricula,formal,1
+M0076,Solicito a emissao do certificado de notas do quarto ano.,notas,formal,0
+M0077,nao percebi como calcularam a media de Redes de Computadores,notas,informal,0
+M0078,ainda da para inscrever em Programacao I?,matricula,informal,0
+M0079,alguem me pode ajudar pfv,infraestrutura,informal,0
+M0080,Solicito a pauta de Algebra Linear para instruir o processo de matricula no ano seguinte.,financeiro,formal,0
+M0081,ainda da para inscrever em Analise Matematica?!!,matricula,informal,0
+M0082,Efectuei o pagamento na semana passada e o sistema ainda nao regista a liquidacao.,financeiro,formal,0
+M0083,Efectuei o pagamento na semana passada e o sistema ainda nao regista a liquidacao.,financeiro,formal,0
+M0084,a internet nao funciona e por isso nao consegui submeter a inscricao a tempo,matricula,informal,1
+M0085,queria pedir revisao da prova de Algebra Linear,notas,informal,0
+M0086,Boa tarde. Gostaria de saber se ainda e possivel inscrever-me na cadeira de Quimica Geral.,matricula,formal,0
+M0087,"queria mudar de curso, o q preciso fazer",matricula,informal,1
+M0088,Informo que o assunto permanece por resolver e o prazo termina hoje.!!,matricula,formal,1
+M0089,Fui notificado de exclusao por falta de pagamento e o prazo de regularizacao termina hoje.,financeiro,formal,1
+M0090,queria pedir revisao da prova de Quimica Geral,notas,informal,0
+M0091,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,1
+M0092,Venho reportar que o balcao de atendimento esteve encerrado durante o prazo de pagamento.,matricula,formal,1
+M0093,ate quando sai a pauta de Analise Matematica?,notas,informal,0
+M0094,como pedir isencao de propina,financeiro,informal,0
+M0095,nao ha internet no campus e o prazo de Estatistica acaba hoje,infraestrutura,informal,1
+M0096,Gostaria de confirmar a data da epoca de recorrencia de Bases de Dados.,notas,formal,0
+M0097,"Preciso do certificado de notas ate quinta-feira para candidatura a bolsa, cujo prazo encerra nesse dia.",notas,formal,1
+M0098,boa tarde queria saber como faco a matricula do quarto ano,matricula,informal,0
+M0099,o laboratorio esta fechado e preciso submeter a inscricao online,infraestrutura,informal,1
+M0100,nao ha energia no bloco e o exame e hoje,infraestrutura,informal,1
+M0101,Gostaria de confirmar a data da epoca de recorrencia de Programacao I.,notas,formal,0
+M0102,Venho reportar que o balcao de atendimento esteve encerrado durante o prazo de pagamento.,matricula,formal,1
+M0103,"a sala do exame desta tarde esta ocupada, resolvam pfv",infraestrutura,informal,0
+M0104,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.",matricula,formal,0
+M0105,como pedir isencao de propina,financeiro,informal,0
+M0106,"queria mudar de curso, o q preciso fazer",matricula,informal,0
+M0107,preciso regularizar hoje senao perco os exames todos,financeiro,informal,0
+M0108,preciso do certificado de notas para pedir isencao de propina,financeiro,informal,1
+M0109,Boa tarde. Solicito o vosso apoio para resolver a minha situacao.!!,notas,formal,0
+M0110,a propina esta paga mas a inscricao em Estatistica continua bloqueada,financeiro,informal,0
+M0111,nao percebi como calcularam a media de Programacao I,notas,informal,0
+M0112,tiraram me de Algebra Linear sem avisar e as aulas comecam segunda,matricula,informal,0
+M0113,o pagamento nao validou e sem isso nao faco o exame de amanha,financeiro,informal,0
+M0114,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,0
+M0115,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,1
+M0116,"Preciso do certificado de notas ate quinta-feira para candidatura a bolsa, cujo prazo encerra nesse dia.!!",notas,formal,1
+M0117,disseram que vou ser excluido por falta de pagamento e o prazo acaba hoje,financeiro,informal,1
+M0118,nao percebi como calcularam a media de Redes de Computadores,notas,informal,0
+M0119,ja mandei email e ninguem respondeu,infraestrutura,informal,0
+M0120,preciso do certificado de notas para pedir isencao de propina,matricula,informal,0
+M0121,queria pedir revisao da prova de Bases de Dados,notas,informal,0
+M0122,como faco pra tirar o certificado de notas,notas,informal,0
+M0123,nao ha agua nas casas de banho do bloco b,infraestrutura,informal,0
+M0124,"Venho solicitar a transferencia de curso, conforme o regulamento em vigor.",matricula,formal,0
+M0125,Gostaria de saber quais os documentos necessarios para requerer isencao de propinas.,financeiro,formal,0
+M0126,como faco pra tirar o certificado de notas!!,notas,informal,1
+M0127,A minha nota de Redes de Computadores nao foi lancada e o prazo de recurso termina amanha.!!,notas,formal,1
+M0128,Solicito esclarecimento: a minha situacao financeira impede a inscricao em Quimica Geral?!!,matricula,formal,1
+M0129,Gostaria de confirmar a data da epoca de recorrencia de Fisica Geral.!!,notas,formal,0
+M0130,a propina esta paga mas a inscricao em Redes de Computadores continua bloqueada,financeiro,informal,0
+M0131,Venho solicitar informacao sobre o plano de pagamento faseado das propinas.!!,financeiro,formal,0
+M0132,nao percebi como calcularam a media de Bases de Dados,notas,informal,0
+M0133,alguem me pode ajudar pfv,infraestrutura,informal,0
+M0134,alguem me pode ajudar pfv!!,infraestrutura,informal,0
+M0135,Solicito esclarecimento sobre o calculo da media final da disciplina de Redes de Computadores.,notas,formal,0
+M0136,o exame e amanha e ainda nao resolveram o meu caso,financeiro,informal,1
+M0137,"Preciso do certificado de notas ate quinta-feira para candidatura a bolsa, cujo prazo encerra nesse dia.",notas,formal,1
+M0138,a propina esta paga mas a inscricao em Programacao I continua bloqueada,financeiro,informal,0
+M0139,"Venho solicitar a transferencia de curso, conforme o regulamento em vigor.",matricula,formal,0
+M0140,nao ha agua nas casas de banho do bloco b,infraestrutura,informal,0
+M0141,queria pedir revisao da prova de Analise Matematica,notas,informal,0
+M0142,Bom dia. Solicito a segunda via do comprovativo de pagamento de propinas.,financeiro,formal,0
+M0143,Informo que o assunto permanece por resolver e o prazo termina hoje.,financeiro,formal,1
+M0144,quando e a recorrencia de Estatistica?,notas,informal,0
+M0145,posso pagar a propina em prestacoes?,financeiro,informal,0
+M0146,boa tarde queria saber como faco a matricula do segundo ano,matricula,informal,0
+M0147,como faco pra tirar o certificado de notas,notas,informal,0
+M0148,"Venho solicitar a transferencia de curso, conforme o regulamento em vigor.",matricula,formal,0
+M0149,Bom dia. Venho por este meio solicitar informacao sobre o processo de matricula para o quarto ano.,matricula,formal,0
+M0150,q documentos preciso levar pra renovar a matricula??,matricula,informal,0
+M0151,ainda da para inscrever em Programacao I?,matricula,informal,0
+M0152,Solicito esclarecimento sobre o calculo da media final da disciplina de Fisica Geral.,notas,formal,0
+M0153,Fui notificado de exclusao por falta de pagamento e o prazo de regularizacao termina hoje.!!,financeiro,formal,1
+M0154,Solicito esclarecimento sobre os documentos exigidos para a renovacao da matricula.!!,matricula,formal,0
+M0155,paguei semana passada e ainda nao entrou no sistema!!,financeiro,informal,0
+M0156,ainda da para inscrever em Redes de Computadores?,matricula,informal,0
+M0157,a internet nao funciona e por isso nao consegui submeter a inscricao a tempo,infraestrutura,informal,0
+M0158,"Solicito revisao da minha situacao: inscricao, propina e notas estao todas por regularizar.",matricula,formal,0
+M0159,querem me excluir mas o problema foi do sistema de inscricoes,matricula,informal,1
+M0160,a propina esta paga mas a inscricao em Fisica Geral continua bloqueada,financeiro,informal,0
+M0161,"Solicito reabertura do prazo de matricula, que expira hoje, por motivo de forca maior devidamente comprovado.",matricula,formal,1
+M0162,Bom dia. Venho por este meio solicitar informacao sobre o processo de matricula para o primeiro ano.,matricula,formal,0
+M0163,Boa tarde. Gostaria de saber se ainda e possivel inscrever-me na cadeira de Bases de Dados.,matricula,formal,0
+M0164,a biblioteca nao me deixa levantar livros por causa da divida,matricula,informal,0
+M0165,"Bom dia. Solicito a publicacao da pauta de Quimica Geral, ainda em falta.",notas,formal,0
+M0166,por favor preciso inscrever hoje senao perco o semestre inteiro,matricula,informal,1
+M0167,Venho reportar que o balcao de atendimento esteve encerrado durante o prazo de pagamento.,financeiro,formal,1
+M0168,o laboratorio esta fechado e preciso submeter a inscricao online,infraestrutura,informal,1
+M0169,alguem me pode ajudar pfv,financeiro,informal,0
+M0170,quando e a recorrencia de Algebra Linear?,notas,informal,0
+M0171,Solicito informacao sobre o horario de funcionamento da biblioteca no periodo de exames.,infraestrutura,formal,0
+M0172,quando e a recorrencia de Estatistica?,notas,informal,0
+M0173,Falta de energia no bloco onde decorre o exame de hoje. Solicito intervencao imediata.,infraestrutura,formal,1
+M0174,quando e a recorrencia de Fisica Geral?,notas,informal,0
+M0175,preciso regularizar hoje senao perco os exames todos,financeiro,informal,1
+M0176,perdi o prazo de inscricao pq o sistema da faculdade esteve em baixo,financeiro,informal,1
+M0177,paguei a propina mas continuo sem acesso a pauta de Algebra Linear,financeiro,informal,0
+M0178,Informo que nao consegui realizar a avaliacao por falha da rede do laboratorio.,financeiro,formal,1
+M0179,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,1
+M0180,querem me excluir mas o problema foi do sistema de inscricoes,financeiro,informal,0
+M0181,a internet do laboratorio esta pessima ha dias,infraestrutura,informal,0
+M0182,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.!!,matricula,formal,1
+M0183,Fui notificado de exclusao por falta de pagamento e o prazo de regularizacao termina hoje.,financeiro,formal,1
+M0184,Venho reportar a falta de agua nas instalacoes sanitarias do bloco B.,infraestrutura,formal,0
+M0185,Solicito autorizacao de acesso ao laboratorio fora do horario regular.,infraestrutura,formal,0
+M0186,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,0
+M0187,Solicito a emissao do certificado de notas do segundo ano.,notas,formal,0
+M0188,o exame e amanha e ainda nao resolveram o meu caso,financeiro,informal,1
+M0189,alguem me pode ajudar pfv,notas,informal,0
+M0190,ate quando sai a pauta de Algebra Linear?,notas,informal,0
+M0191,a internet nao funciona e por isso nao consegui submeter a inscricao a tempo,matricula,informal,0
+M0192,"queria mudar de curso, o q preciso fazer",matricula,informal,0
+M0193,o laboratorio esta fechado e a avaliacao pratica de Estatistica e amanha!!,infraestrutura,informal,1
+M0194,paguei semana passada e ainda nao entrou no sistema,financeiro,informal,0
+M0195,"reprovaram me mal em Redes de Computadores e o exame e sexta, preciso resolver ja",notas,informal,1
+M0196,"Solicito regularizacao urgente da minha situacao financeira, sob pena de perder a epoca de exames.",financeiro,formal,0
+M0197,Informo que nao consegui realizar a avaliacao por falha da rede do laboratorio.,notas,formal,1
+M0198,Boa tarde. Gostaria de saber se ainda e possivel inscrever-me na cadeira de Programacao I.,matricula,formal,1
+M0199,bom dia preciso de ajuda,financeiro,informal,0
+M0200,preciso do certificado de notas para pedir isencao de propina,matricula,informal,0
+M0201,nao ha agua nas casas de banho do bloco b,infraestrutura,informal,0
+M0202,a biblioteca nao me deixa levantar livros por causa da divida,financeiro,informal,0
+M0203,Solicito a atencao dos servicos para o assunto em anexo.,matricula,formal,0
+M0204,"perdi o recibo da propina, da pra tirar outro?!!",financeiro,informal,0
+M0205,Solicito a emissao do certificado de notas do quarto ano.,notas,formal,0
+M0206,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.",matricula,formal,0
+M0207,como pedir isencao de propina,financeiro,informal,0
+M0208,Solicito a pauta de Bases de Dados para instruir o processo de matricula no ano seguinte.,financeiro,formal,0
+M0209,q documentos preciso levar pra renovar a matricula??,matricula,informal,1
+M0210,"Bom dia. Solicito a publicacao da pauta de Quimica Geral, ainda em falta.",notas,formal,1
+M0211,preciso do certificado de notas para pedir isencao de propina,financeiro,informal,1
+M0212,a internet nao funciona e por isso nao consegui submeter a inscricao a tempo!!,infraestrutura,informal,1
+M0213,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.",matricula,formal,0
+M0214,Solicito esclarecimento sobre os documentos exigidos para a renovacao da matricula.,matricula,formal,0
+M0215,"Venho solicitar a transferencia de curso, conforme o regulamento em vigor.",matricula,formal,0
+M0216,A ligacao a Internet do laboratorio de informatica encontra-se instavel ha varios dias.,infraestrutura,formal,0
+M0217,disseram que vou ser excluido por falta de pagamento e o prazo acaba hoje!!,financeiro,informal,0
+M0218,ja mandei email e ninguem respondeu,infraestrutura,informal,0
+M0219,boa tarde tenho um problema urgente,matricula,informal,1
+M0220,gente o prazo acaba amanha e o sistema nao aceita minha inscricao socorro,matricula,informal,1
+M0221,o exame e amanha e ainda nao resolveram o meu caso,financeiro,informal,1
+M0222,Informo que o assunto permanece por resolver e o prazo termina hoje.,financeiro,formal,1
+M0223,Solicito esclarecimento sobre os documentos exigidos para a renovacao da matricula.,matricula,formal,0
+M0224,"Solicito revisao da minha situacao: inscricao, propina e notas estao todas por regularizar.",matricula,formal,0
+M0225,A minha inscricao em Quimica Geral foi anulada sem aviso e as aulas comecam na segunda-feira.,matricula,formal,1
+M0226,da pra usar o laboratorio fora do horario?,infraestrutura,informal,0
+M0227,"Solicito segunda via do comprovativo, extraviado durante a mudanca de sala.",financeiro,formal,0
+M0228,"Solicito regularizacao urgente da minha situacao financeira, sob pena de perder a epoca de exames.",financeiro,formal,0
+M0229,gente o prazo acaba amanha e o sistema nao aceita minha inscricao socorro,matricula,informal,1
+M0230,"Solicito reabertura do prazo de matricula, que expira hoje, por motivo de forca maior devidamente comprovado.",matricula,formal,1
+M0231,por favor preciso inscrever hoje senao perco o semestre inteiro,matricula,informal,1
+M0232,Fui notificado de exclusao por falta de pagamento e o prazo de regularizacao termina hoje.,financeiro,formal,1
+M0233,o laboratorio esta fechado e preciso submeter a inscricao online,infraestrutura,informal,1
+M0234,posso pagar a propina em prestacoes?,financeiro,informal,0
+M0235,Gostaria de confirmar a data da epoca de recorrencia de Estatistica.,notas,formal,1
+M0236,como faco pra tirar o certificado de notas,notas,informal,0
+M0237,preciso do certificado de notas para pedir isencao de propina,matricula,informal,0
+M0238,Solicito esclarecimento sobre o calculo da media final da disciplina de Analise Matematica.,notas,formal,0
+M0239,Solicito informacao sobre o horario de funcionamento da biblioteca no periodo de exames.,infraestrutura,formal,0
+M0240,"a sala do exame desta tarde esta ocupada, resolvam por favor",infraestrutura,informal,1
+M0241,"Venho solicitar a transferencia de curso, conforme o regulamento em vigor.",matricula,formal,0
+M0242,"queria mudar de curso, o q preciso fazer",matricula,informal,0
+M0243,Solicito esclarecimento sobre os documentos exigidos para a renovacao da matricula.!!,matricula,formal,0
+M0244,q documentos preciso levar pra renovar a matricula??,matricula,informal,0
+M0245,A ligacao a Internet do laboratorio de informatica encontra-se instavel ha varios dias.,infraestrutura,formal,0
+M0246,perdi o prazo de inscricao pq o sistema da faculdade esteve em baixo,financeiro,informal,1
+M0247,ate quando sai a pauta de Programacao I?,notas,informal,0
+M0248,A sala atribuida ao exame desta tarde encontra-se ocupada. Solicito resolucao urgente.,infraestrutura,formal,1
+M0249,Solicito o comprovativo de inscricao para apresentar na Tesouraria.,financeiro,formal,0
+M0250,nao ha energia no bloco e o exame e hoje,infraestrutura,informal,0
+M0251,Solicito a pauta de Fisica Geral para instruir o processo de matricula no ano seguinte.,financeiro,formal,0
+M0252,Gostaria de saber quais os documentos necessarios para requerer isencao de propinas.,financeiro,formal,0
+M0253,A minha nota de Quimica Geral nao foi lancada e o prazo de recurso termina amanha.,notas,formal,1
+M0254,Efectuei o pagamento na semana passada e o sistema ainda nao regista a liquidacao.,financeiro,formal,0
+M0255,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.,matricula,formal,1
+M0256,Fui indevidamente reprovado em Estatistica e o exame de recurso e na sexta-feira.,notas,formal,1
+M0257,nao ha internet no campus e o prazo de Algebra Linear acaba hoje,matricula,informal,0
+M0258,nao ha energia no bloco e o exame e hoje,infraestrutura,informal,1
+M0259,Solicito esclarecimento sobre os documentos exigidos para a renovacao da matricula.!!,matricula,formal,0
+M0260,aparece divida no sistema mas ja paguei tudo,financeiro,informal,0
+M0261,nao consigo inscrever em Estatistica porque aparece divida no sistema!!,financeiro,informal,0
+M0262,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.,matricula,formal,1
+M0263,Falta de energia no bloco onde decorre o exame de hoje. Solicito intervencao imediata.,infraestrutura,formal,1
+M0264,Informo que nao consegui realizar a avaliacao por falha da rede do laboratorio.,financeiro,formal,1
+M0265,Solicito a emissao do certificado de notas do terceiro ano.,notas,formal,0
+M0266,nao ha internet no campus e o prazo de Programacao I acaba hoje,matricula,informal,0
+M0267,nao ha internet no campus e o prazo de Quimica Geral acaba hoje,matricula,informal,0
+M0268,como pedir isencao de propina,financeiro,informal,0
+M0269,da pra usar o laboratorio fora do horario?,infraestrutura,informal,0
+M0270,Bom dia. Venho por este meio solicitar informacao sobre o processo de matricula para o quarto ano.,matricula,formal,0
+M0271,disseram que vou ser excluido por falta de pagamento e o prazo acaba hoje,financeiro,informal,1
+M0272,tiraram me de Analise Matematica sem avisar e as aulas comecam segunda,matricula,informal,0
+M0273,Solicito a atencao dos servicos para o assunto em anexo.,matricula,formal,0
+M0274,Venho solicitar informacao sobre o plano de pagamento faseado das propinas.,financeiro,formal,0
+M0275,paguei semana passada e ainda nao entrou no sistema,financeiro,informal,0
+M0276,O pagamento nao foi validado e sem isso nao posso fazer o exame de amanha.,financeiro,formal,1
+M0277,"Solicito reabertura do prazo de matricula, que expira hoje, por motivo de forca maior devidamente comprovado.",matricula,formal,1
+M0278,"Solicito revisao da minha situacao: inscricao, propina e notas estao todas por regularizar.",matricula,formal,0
+M0279,o laboratorio esta fechado e a avaliacao pratica de Analise Matematica e amanha,infraestrutura,informal,0
+M0280,aparece divida no sistema mas ja paguei tudo,financeiro,informal,0
+M0281,"Solicito revisao da minha situacao: inscricao, propina e notas estao todas por regularizar.",matricula,formal,0
+M0282,"Solicito regularizacao urgente da minha situacao financeira, sob pena de perder a epoca de exames.",financeiro,formal,1
+M0283,como faco pra tirar o certificado de notas,notas,informal,0
+M0284,Solicito autorizacao de acesso ao laboratorio fora do horario regular.!!,infraestrutura,formal,0
+M0285,Gostaria de saber quais os documentos necessarios para requerer isencao de propinas.,financeiro,formal,0
+M0286,"Solicito reabertura do prazo de matricula, que expira hoje, por motivo de forca maior devidamente comprovado.",matricula,formal,1
+M0287,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.",matricula,formal,0
+M0288,nao percebi como calcularam a media de Fisica Geral,notas,informal,0
+M0289,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,1
+M0290,Venho reportar a falta de agua nas instalacoes sanitarias do bloco B.!!,infraestrutura,formal,0
+M0291,"Solicito regularizacao urgente da minha situacao financeira, sob pena de perder a epoca de exames.",financeiro,formal,1
+M0292,A ligacao a Internet do laboratorio de informatica encontra-se instavel ha varios dias.,infraestrutura,formal,0
+M0293,a biblioteca nao me deixa levantar livros por causa da divida,matricula,informal,0
+M0294,a propina esta paga mas a inscricao em Estatistica continua bloqueada,matricula,informal,1
+M0295,"perdi o recibo da propina, da pra tirar outro?",financeiro,informal,0
+M0296,ate quando sai a pauta de Analise Matematica?,notas,informal,0
+M0297,"aparece divida e por isso bloquearam a minha inscricao, o que faco",financeiro,informal,0
+M0298,tiraram me de Bases de Dados sem avisar e as aulas comecam segunda,matricula,informal,0
+M0299,bom dia preciso de ajuda,matricula,informal,1
+M0300,"a sala do exame desta tarde esta ocupada, resolvam pfv",infraestrutura,informal,1
+M0301,nao consigo inscrever em Redes de Computadores porque aparece divida no sistema,financeiro,informal,0
+M0302,Venho solicitar revisao de prova da disciplina de Quimica Geral.,notas,formal,1
+M0303,"reprovaram me mal em Quimica Geral e o exame e sexta, preciso resolver ja",notas,informal,0
+M0304,A sala atribuida ao exame desta tarde encontra-se ocupada. Solicito resolucao urgente.,infraestrutura,formal,1
+M0305,Informo que o assunto permanece por resolver e o prazo termina hoje.,financeiro,formal,1
+M0306,Bom dia. Venho por este meio solicitar informacao sobre o processo de matricula para o segundo ano.,matricula,formal,0
+M0307,Venho reportar a falta de agua nas instalacoes sanitarias do bloco B.,infraestrutura,formal,1
+M0308,perdi o prazo de inscricao porque o sistema da faculdade esteve em baixo,financeiro,informal,1
+M0309,disseram que vou ser excluido por falta de pagamento e o prazo acaba hoje!!,financeiro,informal,1
+M0310,nao ha internet no campus e o prazo de Bases de Dados acaba hoje!!,infraestrutura,informal,0
+M0311,paguei a propina mas continuo sem acesso a pauta de Algebra Linear,financeiro,informal,0
+M0312,O laboratorio esta encerrado e a avaliacao pratica de Estatistica realiza-se amanha.,infraestrutura,formal,0
+M0313,ainda da para inscrever em Estatistica?,matricula,informal,0
+M0314,Solicito a atencao dos servicos para o assunto em anexo.,notas,formal,0
+M0315,a propina esta paga mas a inscricao em Fisica Geral continua bloqueada,matricula,informal,0
+M0316,"reprovaram me mal em Analise Matematica e o exame e sexta, preciso resolver ja",notas,informal,0
+M0317,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.,matricula,formal,1
+M0318,"Solicito segunda via do comprovativo, extraviado durante a mudanca de sala.",matricula,formal,0
+M0319,a biblioteca nao me deixa levantar livros por causa da divida,financeiro,informal,0
+M0320,Solicito esclarecimento sobre o calculo da media final da disciplina de Bases de Dados.,notas,formal,0
+M0321,nao consigo inscrever em Redes de Computadores pq aparece divida no sistema,matricula,informal,0
+M0322,quando e a recorrencia de Quimica Geral?!!,notas,informal,0
+M0323,tiraram me de Fisica Geral sem avisar e as aulas comecam segunda,matricula,informal,0
+M0324,pfv preciso inscrever hoje senao perco o semestre inteiro!!,matricula,informal,1
+M0325,Solicito a emissao do certificado de notas do segundo ano.!!,notas,formal,0
+M0326,nao consigo entrar no sistema pra confirmar a inscricao alguem ajuda,matricula,informal,0
+M0327,"Preciso do certificado de notas ate quinta-feira para candidatura a bolsa, cujo prazo encerra nesse dia.",notas,formal,1
+M0328,Bom dia. Solicito a segunda via do comprovativo de pagamento de propinas.,financeiro,formal,0
+M0329,"queria mudar de curso, o q preciso fazer",matricula,informal,0
+M0330,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.,matricula,formal,1
+M0331,paguei a propina mas continuo sem acesso a pauta de Bases de Dados,financeiro,informal,0
+M0332,quando e a recorrencia de Bases de Dados?,notas,informal,0
+M0333,paguei semana passada e ainda nao entrou no sistema,financeiro,informal,0
+M0334,como faco pra tirar o certificado de notas!!,notas,informal,0
+M0335,a internet do laboratorio esta pessima ha dias,infraestrutura,informal,0
+M0336,o laboratorio esta fechado e preciso submeter a inscricao online,infraestrutura,informal,0
+M0337,"Solicito segunda via do comprovativo, extraviado durante a mudanca de sala.",matricula,formal,0
+M0338,o laboratorio esta fechado e a avaliacao pratica de Algebra Linear e amanha,infraestrutura,informal,1
+M0339,Bom dia. Informo que o projector da sala 14 nao esta operacional.,infraestrutura,formal,0
+M0340,queria pedir revisao da prova de Redes de Computadores,notas,informal,0
+M0341,Solicito esclarecimento sobre o valor em divida apresentado no sistema.,financeiro,formal,1
+M0342,paguei a propina mas continuo sem acesso a pauta de Quimica Geral,notas,informal,0
+M0343,nao consigo entrar no sistema pra confirmar a inscricao alguem ajuda,matricula,informal,0
+M0344,Solicito esclarecimento sobre os documentos exigidos para a renovacao da matricula.,matricula,formal,0
+M0345,minha nota de Algebra Linear nao apareceu e o prazo de recurso e amanha,notas,informal,1
+M0346,Bom dia. Venho por este meio solicitar informacao sobre o processo de matricula para o quarto ano.,matricula,formal,0
+M0347,Boa tarde. Solicito o vosso apoio para resolver a minha situacao.,matricula,formal,0
+M0348,A ligacao a Internet do laboratorio de informatica encontra-se instavel ha varios dias.,infraestrutura,formal,0
+M0349,Solicito autorizacao de acesso ao laboratorio fora do horario regular.,infraestrutura,formal,0
+M0350,"Preciso do certificado de notas ate quinta-feira para candidatura a bolsa, cujo prazo encerra nesse dia.",notas,formal,1
+M0351,"Solicito reabertura do prazo de matricula, que expira hoje, por motivo de forca maior devidamente comprovado.",matricula,formal,1
+M0352,paguei a propina mas continuo sem acesso a pauta de Analise Matematica,financeiro,informal,0
+M0353,a biblioteca nao me deixa levantar livros por causa da divida,financeiro,informal,0
+M0354,a propina esta paga mas a inscricao em Redes de Computadores continua bloqueada,matricula,informal,0
+M0355,ja mandei email e ninguem respondeu,notas,informal,0
+M0356,Solicito esclarecimento sobre o valor em divida apresentado no sistema.,financeiro,formal,0
+M0357,"queria mudar de curso, o q preciso fazer!!",matricula,informal,0
+M0358,Solicito a emissao do certificado de notas do primeiro ano.,notas,formal,0
+M0359,Venho reportar que o balcao de atendimento esteve encerrado durante o prazo de pagamento.!!,financeiro,formal,1
+M0360,da pra usar o laboratorio fora do horario?,infraestrutura,informal,0
+M0361,Efectuei o pagamento na semana passada e o sistema ainda nao regista a liquidacao.,financeiro,formal,1
+M0362,"reprovaram me mal em Analise Matematica e o exame e sexta, preciso resolver ja",notas,informal,1
+M0363,Falta de energia no bloco onde decorre o exame de hoje. Solicito intervencao imediata.,infraestrutura,formal,1
+M0364,querem me excluir mas o problema foi do sistema de inscricoes,matricula,informal,0
+M0365,Venho reportar que o balcao de atendimento esteve encerrado durante o prazo de pagamento.,matricula,formal,1
+M0366,Venho reportar que o balcao de atendimento esteve encerrado durante o prazo de pagamento.,matricula,formal,1
+M0367,Bom dia. Venho por este meio solicitar informacao sobre o processo de matricula para o quarto ano.,matricula,formal,1
+M0368,como faco pra tirar o certificado de notas,notas,informal,0
+M0369,ja mandei email e ninguem respondeu,infraestrutura,informal,0
+M0370,paguei semana passada e ainda nao entrou no sistema,financeiro,informal,0
+M0371,paguei semana passada e ainda nao entrou no sistema,financeiro,informal,0
+M0372,tiraram me de Estatistica sem avisar e as aulas comecam segunda,matricula,informal,1
+M0373,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,0
+M0374,Solicito informacao sobre o horario de funcionamento da biblioteca no periodo de exames.,infraestrutura,formal,0
+M0375,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.",matricula,formal,1
+M0376,Solicito esclarecimento: a minha situacao financeira impede a inscricao em Fisica Geral?,matricula,formal,0
+M0377,a propina esta paga mas a inscricao em Quimica Geral continua bloqueada,matricula,informal,0
+M0378,nao ha internet no campus e o prazo de Redes de Computadores acaba hoje!!,matricula,informal,0
+M0379,A sala atribuida ao exame desta tarde encontra-se ocupada. Solicito resolucao urgente.,infraestrutura,formal,1
+M0380,nao ha internet no campus e o prazo de Fisica Geral acaba hoje,matricula,informal,1
+M0381,Gostaria de saber quais os documentos necessarios para requerer isencao de propinas.,financeiro,formal,0
+M0382,como faco pra tirar o certificado de notas,notas,informal,0
+M0383,"reprovaram me mal em Analise Matematica e o exame e sexta, preciso resolver ja",notas,informal,1
+M0384,nao percebi como calcularam a media de Estatistica,notas,informal,0
+M0385,Informo que nao consegui realizar a avaliacao por falha da rede do laboratorio.,financeiro,formal,1
+M0386,"perdi o recibo da propina, da pra tirar outro?",financeiro,informal,0
+M0387,"Solicito segunda via do comprovativo, extraviado durante a mudanca de sala.",financeiro,formal,0
+M0388,Solicito o comprovativo de inscricao para apresentar na Tesouraria.,matricula,formal,0
+M0389,Solicito esclarecimento: a minha situacao financeira impede a inscricao em Fisica Geral?,financeiro,formal,1
+M0390,Fui notificado de exclusao por falta de pagamento e o prazo de regularizacao termina hoje.,financeiro,formal,1
+M0391,gente o prazo acaba amanha e o sistema nao aceita minha inscricao socorro,matricula,informal,1
+M0392,a biblioteca nao me deixa levantar livros por causa da divida,matricula,informal,0
+M0393,"Bom dia. Solicito a publicacao da pauta de Fisica Geral, ainda em falta.",notas,formal,0
+M0394,o laboratorio esta fechado e preciso submeter a inscricao online,infraestrutura,informal,0
+M0395,Solicito esclarecimento sobre os documentos exigidos para a renovacao da matricula.,matricula,formal,0
+M0396,A ligacao a Internet do laboratorio de informatica encontra-se instavel ha varios dias.,infraestrutura,formal,0
+M0397,O pagamento nao foi validado e sem isso nao posso fazer o exame de amanha.,financeiro,formal,1
+M0398,Bom dia. Informo que o projector da sala 14 nao esta operacional.,infraestrutura,formal,0
+M0399,Gostaria de saber quais os documentos necessarios para requerer isencao de propinas.,financeiro,formal,0
+M0400,"Bom dia. Solicito a publicacao da pauta de Redes de Computadores, ainda em falta.",notas,formal,0
+M0401,a internet nao funciona e por isso nao consegui submeter a inscricao a tempo,infraestrutura,informal,1
+M0402,preciso regularizar hoje senao perco os exames todos,financeiro,informal,1
+M0403,o projector da sala 14 nao liga,infraestrutura,informal,0
+M0404,como faco pra tirar o certificado de notas,notas,informal,0
+M0405,Bom dia. Venho por este meio solicitar informacao sobre o processo de matricula para o primeiro ano.,matricula,formal,0
+M0406,minha nota de Algebra Linear nao apareceu e o prazo de recurso e amanha,notas,informal,1
+M0407,boa tarde queria saber como faco a matricula do primeiro ano,matricula,informal,0
+M0408,Boa tarde. Gostaria de saber se ainda e possivel inscrever-me na cadeira de Analise Matematica.,matricula,formal,0
+M0409,a propina esta paga mas a inscricao em Algebra Linear continua bloqueada,financeiro,informal,0
+M0410,boa tarde queria saber como faco a matricula do segundo ano,matricula,informal,0
+M0411,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,0
+M0412,minha nota de Algebra Linear nao apareceu e o prazo de recurso e amanha,notas,informal,1
+M0413,Efectuei o pagamento na semana passada e o sistema ainda nao regista a liquidacao.,financeiro,formal,1
+M0414,nao ha agua nas casas de banho do bloco b!!,infraestrutura,informal,0
+M0415,Venho solicitar informacao sobre o plano de pagamento faseado das propinas.,financeiro,formal,0
+M0416,"Prezados, aguardo resposta ao pedido submetido a semana passada.",infraestrutura,formal,0
+M0417,"Venho solicitar a transferencia de curso, conforme o regulamento em vigor.!!",matricula,formal,0
+M0418,nao percebi como calcularam a media de Programacao I,notas,informal,0
+M0419,paguei a propina mas continuo sem acesso a pauta de Bases de Dados,notas,informal,0
+M0420,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.,matricula,formal,1
+M0421,"a sala do exame desta tarde esta ocupada, resolvam por favor",infraestrutura,informal,0
+M0422,Venho solicitar revisao de prova da disciplina de Bases de Dados.!!,notas,formal,1
+M0423,q documentos preciso levar pra renovar a matricula??!!,matricula,informal,0
+M0424,Venho solicitar revisao de prova da disciplina de Redes de Computadores.,notas,formal,0
+M0425,O pagamento nao foi validado e sem isso nao posso fazer o exame de amanha.,financeiro,formal,0
+M0426,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.",matricula,formal,0
+M0427,paguei semana passada e ainda nao entrou no sistema,financeiro,informal,0
+M0428,nao ha agua nas casas de banho do bloco b,infraestrutura,informal,0
+M0429,"Venho solicitar apoio, pois o pagamento efectuado nao desbloqueou o lancamento das notas.",financeiro,formal,0
+M0430,Solicito informacao sobre o horario de funcionamento da biblioteca no periodo de exames.,infraestrutura,formal,0
+M0431,por favor preciso inscrever hoje senao perco o semestre inteiro,matricula,informal,1
+M0432,Solicito a emissao do certificado de notas do quarto ano.,notas,formal,0
+M0433,"Solicito reabertura do prazo de matricula, que expira hoje, por motivo de forca maior devidamente comprovado.",matricula,formal,1
+M0434,Boa tarde. Gostaria de saber se ainda e possivel inscrever-me na cadeira de Quimica Geral.,matricula,formal,0
+M0435,"Venho solicitar apoio, pois o pagamento efectuado nao desbloqueou o lancamento das notas.",matricula,formal,1
+M0436,a internet nao funciona e por isso nao consegui submeter a inscricao a tempo,infraestrutura,informal,1
+M0437,o exame e amanha e ainda nao resolveram o meu caso!!,financeiro,informal,0
+M0438,ate quando sai a pauta de Redes de Computadores?,notas,informal,0
+M0439,Venho solicitar revisao de prova da disciplina de Quimica Geral.,notas,formal,1
+M0440,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,0
+M0441,gente o prazo acaba amanha e o sistema nao aceita minha inscricao socorro,matricula,informal,0
+M0442,"Bom dia. Solicito a publicacao da pauta de Analise Matematica, ainda em falta.!!",notas,formal,0
+M0443,paguei a propina mas continuo sem acesso a pauta de Redes de Computadores,financeiro,informal,0
+M0444,A minha inscricao em Quimica Geral foi anulada sem aviso e as aulas comecam na segunda-feira.,matricula,formal,1
+M0445,"Venho solicitar a transferencia de curso, conforme o regulamento em vigor.",matricula,formal,0
+M0446,disseram que vou ser excluido por falta de pagamento e o prazo acaba hoje,financeiro,informal,0
+M0447,disseram que vou ser excluido por falta de pagamento e o prazo acaba hoje,financeiro,informal,0
+M0448,Boa tarde. Gostaria de saber se ainda e possivel inscrever-me na cadeira de Estatistica.!!,matricula,formal,0
+M0449,"Solicito revisao da minha situacao: inscricao, propina e notas estao todas por regularizar.",matricula,formal,0
+M0450,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.",matricula,formal,0
+M0451,Informo que o assunto permanece por resolver e o prazo termina hoje.,matricula,formal,1
+M0452,O pagamento nao foi validado e sem isso nao posso fazer o exame de amanha.,financeiro,formal,1
+M0453,como pedir isencao de propina,financeiro,informal,0
+M0454,Solicito a atencao dos servicos para o assunto em anexo.,financeiro,formal,0
+M0455,Solicito esclarecimento sobre os documentos exigidos para a renovacao da matricula.,matricula,formal,1
+M0456,boa tarde queria saber como faco a matricula do primeiro ano,matricula,informal,0
+M0457,Solicito a atencao dos servicos para o assunto em anexo.,financeiro,formal,0
+M0458,quando e a recorrencia de Redes de Computadores?,notas,informal,0
+M0459,quando e a recorrencia de Programacao I?,notas,informal,0
+M0460,minha nota de Fisica Geral nao apareceu e o prazo de recurso e amanha,notas,informal,1
+M0461,a que horas abre a biblioteca em epoca de exames?,infraestrutura,informal,0
+M0462,ja mandei email e ninguem respondeu,infraestrutura,informal,0
+M0463,quando e a recorrencia de Programacao I?,notas,informal,0
+M0464,"Prezados, aguardo resposta ao pedido submetido a semana passada.",matricula,formal,1
+M0465,Bom dia. Solicito a segunda via do comprovativo de pagamento de propinas.,financeiro,formal,1
+M0466,q documentos preciso levar pra renovar a matricula??,matricula,informal,1
+M0467,preciso regularizar hoje senao perco os exames todos!!,financeiro,informal,1
+M0468,da pra usar o laboratorio fora do horario?!!,infraestrutura,informal,0
+M0469,"Bom dia. Solicito a publicacao da pauta de Algebra Linear, ainda em falta.",notas,formal,1
+M0470,Solicito esclarecimento sobre os documentos exigidos para a renovacao da matricula.,matricula,formal,0
+M0471,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.,matricula,formal,1
+M0472,A ligacao a Internet do laboratorio de informatica encontra-se instavel ha varios dias.!!,infraestrutura,formal,1
+M0473,nao consigo inscrever em Estatistica porque aparece divida no sistema!!,matricula,informal,1
+M0474,"aparece divida e por isso bloquearam a minha inscricao, o que faco",matricula,informal,1
+M0475,o pagamento nao validou e sem isso nao faco o exame de amanha,financeiro,informal,1
+M0476,querem me excluir mas o problema foi do sistema de inscricoes,matricula,informal,0
+M0477,querem me excluir mas o problema foi do sistema de inscricoes,financeiro,informal,0
+M0478,Solicito a pauta de Analise Matematica para instruir o processo de matricula no ano seguinte.,financeiro,formal,0
+M0479,Venho reportar a falta de agua nas instalacoes sanitarias do bloco B.,infraestrutura,formal,1
+M0480,Bom dia. Solicito a segunda via do comprovativo de pagamento de propinas.,financeiro,formal,0
+M0481,ainda da para inscrever em Programacao I?,matricula,informal,0
+M0482,"queria mudar de curso, o q preciso fazer",matricula,informal,0
+M0483,"queria mudar de curso, o q preciso fazer",matricula,informal,0
+M0484,A sala atribuida ao exame desta tarde encontra-se ocupada. Solicito resolucao urgente.,infraestrutura,formal,1
+M0485,Solicito a emissao do certificado de notas do terceiro ano.!!,notas,formal,0
+M0486,A minha nota de Quimica Geral nao foi lancada e o prazo de recurso termina amanha.,notas,formal,1
+M0487,preciso regularizar hoje senao perco os exames todos,financeiro,informal,0
+M0488,como faco pra tirar o certificado de notas!!,notas,informal,0
+M0489,como pedir isencao de propina,financeiro,informal,0
+M0490,aparece divida no sistema mas ja paguei tudo,financeiro,informal,0
+M0491,nao consigo inscrever em Redes de Computadores porque aparece divida no sistema,financeiro,informal,0
+M0492,Fui indevidamente reprovado em Bases de Dados e o exame de recurso e na sexta-feira.,notas,formal,1
+M0493,Bom dia. Venho por este meio solicitar informacao sobre o processo de matricula para o terceiro ano.,matricula,formal,0
+M0494,ate quando sai a pauta de Bases de Dados?,notas,informal,0
+M0495,alguem me pode ajudar pfv,infraestrutura,informal,0
+M0496,aparece divida no sistema mas ja paguei tudo,financeiro,informal,0
+M0497,a propina esta paga mas a inscricao em Bases de Dados continua bloqueada,financeiro,informal,0
+M0498,da pra usar o laboratorio fora do horario?,infraestrutura,informal,0
+M0499,Venho solicitar revisao de prova da disciplina de Fisica Geral.,notas,formal,0
+M0500,aparece divida no sistema mas ja paguei tudo,financeiro,informal,0
+M0501,O pagamento nao foi validado e sem isso nao posso fazer o exame de amanha.,financeiro,formal,1
+M0502,"Solicito reabertura do prazo de matricula, que expira hoje, por motivo de forca maior devidamente comprovado.",matricula,formal,1
+M0503,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,1
+M0504,Bom dia. Solicito a segunda via do comprovativo de pagamento de propinas.,financeiro,formal,1
+M0505,A minha nota de Redes de Computadores nao foi lancada e o prazo de recurso termina amanha.,notas,formal,1
+M0506,ja mandei email e ninguem respondeu,infraestrutura,informal,0
+M0507,A minha inscricao em Fisica Geral foi anulada sem aviso e as aulas comecam na segunda-feira.,matricula,formal,1
+M0508,aparece divida no sistema mas ja paguei tudo!!,financeiro,informal,0
+M0509,ainda da para inscrever em Algebra Linear?!!,matricula,informal,0
+M0510,Falta de energia no bloco onde decorre o exame de hoje. Solicito intervencao imediata.,infraestrutura,formal,1
+M0511,Gostaria de saber quais os documentos necessarios para requerer isencao de propinas.,financeiro,formal,0
+M0512,ja mandei email e ninguem respondeu,financeiro,informal,0
+M0513,"Venho solicitar apoio, pois o pagamento efectuado nao desbloqueou o lancamento das notas.",financeiro,formal,0
+M0514,Falta de energia no bloco onde decorre o exame de hoje. Solicito intervencao imediata.,infraestrutura,formal,1
+M0515,pfv preciso inscrever hoje senao perco o semestre inteiro,matricula,informal,1
+M0516,paguei semana passada e ainda nao entrou no sistema,financeiro,informal,0
+M0517,o pagamento nao validou e sem isso nao faco o exame de amanha,financeiro,informal,1
+M0518,paguei semana passada e ainda nao entrou no sistema,financeiro,informal,0
+M0519,nao consigo entrar no sistema pra confirmar a inscricao alguem ajuda,matricula,informal,0
+M0520,"queria mudar de curso, o q preciso fazer",matricula,informal,0
+M0521,paguei semana passada e ainda nao entrou no sistema!!,financeiro,informal,0
+M0522,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,1
+M0523,"Preciso do certificado de notas ate quinta-feira para candidatura a bolsa, cujo prazo encerra nesse dia.",notas,formal,1
+M0524,ate quando sai a pauta de Programacao I?,notas,informal,0
+M0525,"perdi o recibo da propina, da pra tirar outro?!!",financeiro,informal,0
+M0526,nao ha internet no campus e o prazo de Quimica Geral acaba hoje,matricula,informal,1
+M0527,da pra usar o laboratorio fora do horario?,infraestrutura,informal,1
+M0528,Informo que nao consegui realizar a avaliacao por falha da rede do laboratorio.,notas,formal,1
+M0529,nao consigo entrar no sistema pra confirmar a inscricao alguem ajuda,matricula,informal,0
+M0530,boa tarde tenho um problema urgente,infraestrutura,informal,0
+M0531,disseram que vou ser excluido por falta de pagamento e o prazo acaba hoje,financeiro,informal,0
+M0532,boa tarde tenho um problema urgente!!,notas,informal,0
+M0533,Efectuei o pagamento na semana passada e o sistema ainda nao regista a liquidacao.,financeiro,formal,0
+M0534,bom dia preciso de ajuda,infraestrutura,informal,0
+M0535,"Venho solicitar a transferencia de curso, conforme o regulamento em vigor.",matricula,formal,0
+M0536,ja mandei email e ninguem respondeu,financeiro,informal,0
+M0537,nao ha internet no campus e o prazo de Fisica Geral acaba hoje,infraestrutura,informal,1
+M0538,boa tarde tenho um problema urgente,infraestrutura,informal,0
+M0539,quando e a recorrencia de Analise Matematica?,notas,informal,0
+M0540,"Solicito regularizacao urgente da minha situacao financeira, sob pena de perder a epoca de exames.",financeiro,formal,1
+M0541,boa tarde tenho um problema urgente,matricula,informal,1
+M0542,o pagamento nao validou e sem isso nao faco o exame de amanha,financeiro,informal,0
+M0543,"Solicito regularizacao urgente da minha situacao financeira, sob pena de perder a epoca de exames.",financeiro,formal,1
+M0544,"Solicito reabertura do prazo de matricula, que expira hoje, por motivo de forca maior devidamente comprovado.",matricula,formal,1
+M0545,disseram que vou ser excluido por falta de pagamento e o prazo acaba hoje,financeiro,informal,1
+M0546,A sala atribuida ao exame desta tarde encontra-se ocupada. Solicito resolucao urgente.,infraestrutura,formal,1
+M0547,boa tarde queria saber como faco a matricula do terceiro ano,matricula,informal,0
+M0548,Venho solicitar informacao sobre o plano de pagamento faseado das propinas.,financeiro,formal,0
+M0549,Boa tarde. Solicito o vosso apoio para resolver a minha situacao.,financeiro,formal,0
+M0550,como pedir isencao de propina,financeiro,informal,0
+M0551,queria pedir revisao da prova de Algebra Linear,notas,informal,0
+M0552,Venho reportar a falta de agua nas instalacoes sanitarias do bloco B.,infraestrutura,formal,0
+M0553,nao consigo entrar no sistema pra confirmar a inscricao alguem ajuda,matricula,informal,0
+M0554,q documentos preciso levar pra renovar a matricula??,matricula,informal,0
+M0555,"Solicito revisao da minha situacao: inscricao, propina e notas estao todas por regularizar.",matricula,formal,0
+M0556,como pedir isencao de propina,financeiro,informal,0
+M0557,Falta de energia no bloco onde decorre o exame de hoje. Solicito intervencao imediata.,infraestrutura,formal,1
+M0558,como faco pra tirar o certificado de notas!!,notas,informal,1
+M0559,nao consigo entrar no sistema pra confirmar a inscricao alguem ajuda,matricula,informal,0
+M0560,"Solicito reabertura do prazo de matricula, que expira hoje, por motivo de forca maior devidamente comprovado.",matricula,formal,1
+M0561,o exame e amanha e ainda nao resolveram o meu caso,notas,informal,1
+M0562,"Bom dia. Solicito a publicacao da pauta de Bases de Dados, ainda em falta.",notas,formal,0
+M0563,nao ha energia no bloco e o exame e hoje,infraestrutura,informal,0
+M0564,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.!!",matricula,formal,0
+M0565,a internet nao funciona e por isso nao consegui submeter a inscricao a tempo!!,matricula,informal,1
+M0566,disseram que vou ser excluido por falta de pagamento e o prazo acaba hoje,financeiro,informal,0
+M0567,Solicito esclarecimento: a minha situacao financeira impede a inscricao em Algebra Linear?,financeiro,formal,0
+M0568,"Preciso do certificado de notas ate quinta-feira para candidatura a bolsa, cujo prazo encerra nesse dia.",notas,formal,1
+M0569,Solicito a atencao dos servicos para o assunto em anexo.,notas,formal,1
+M0570,"Solicito revisao da minha situacao: inscricao, propina e notas estao todas por regularizar.",financeiro,formal,0
+M0571,Solicito a pauta de Algebra Linear para instruir o processo de matricula no ano seguinte.,notas,formal,1
+M0572,O pagamento nao foi validado e sem isso nao posso fazer o exame de amanha.,financeiro,formal,1
+M0573,disseram que vou ser excluido por falta de pagamento e o prazo acaba hoje,financeiro,informal,1
+M0574,A sala atribuida ao exame desta tarde encontra-se ocupada. Solicito resolucao urgente.,infraestrutura,formal,1
+M0575,O pagamento nao foi validado e sem isso nao posso fazer o exame de amanha.,financeiro,formal,0
+M0576,Efectuei o pagamento na semana passada e o sistema ainda nao regista a liquidacao.,financeiro,formal,1
+M0577,"Solicito revisao da minha situacao: inscricao, propina e notas estao todas por regularizar.",financeiro,formal,0
+M0578,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.,matricula,formal,1
+M0579,o exame e amanha e ainda nao resolveram o meu caso,notas,informal,1
+M0580,por favor preciso inscrever hoje senao perco o semestre inteiro,matricula,informal,1
+M0581,preciso do certificado de notas para pedir isencao de propina,matricula,informal,1
+M0582,A ligacao a Internet do laboratorio de informatica encontra-se instavel ha varios dias.,infraestrutura,formal,0
+M0583,Gostaria de confirmar a data da epoca de recorrencia de Redes de Computadores.,notas,formal,0
+M0584,"Prezados, aguardo resposta ao pedido submetido a semana passada.!!",notas,formal,1
+M0585,Boa tarde. Gostaria de saber se ainda e possivel inscrever-me na cadeira de Analise Matematica.,matricula,formal,1
+M0586,paguei a propina mas continuo sem acesso a pauta de Programacao I,notas,informal,0
+M0587,"Venho solicitar a transferencia de curso, conforme o regulamento em vigor.",matricula,formal,0
+M0588,"a sala do exame desta tarde esta ocupada, resolvam por favor",infraestrutura,informal,0
+M0589,"Solicito segunda via do comprovativo, extraviado durante a mudanca de sala.",matricula,formal,0
+M0590,ja mandei email e ninguem respondeu,matricula,informal,0
+M0591,boa tarde queria saber como faco a matricula do terceiro ano,matricula,informal,0
+M0592,Informo que o assunto permanece por resolver e o prazo termina hoje.,financeiro,formal,1
+M0593,Solicito informacao sobre o horario de funcionamento da biblioteca no periodo de exames.,infraestrutura,formal,0
+M0594,aparece divida no sistema mas ja paguei tudo,financeiro,informal,0
+M0595,O pagamento nao foi validado e sem isso nao posso fazer o exame de amanha.,financeiro,formal,1
+M0596,nao consigo entrar no sistema pra confirmar a inscricao alguem ajuda,matricula,informal,0
+M0597,A minha nota de Bases de Dados nao foi lancada e o prazo de recurso termina amanha.!!,notas,formal,1
+M0598,Gostaria de confirmar a data da epoca de recorrencia de Programacao I.,notas,formal,0
+M0599,Solicito esclarecimento sobre o calculo da media final da disciplina de Estatistica.,notas,formal,0
+M0600,disseram que vou ser excluido por falta de pagamento e o prazo acaba hoje,financeiro,informal,0
+M0601,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,1
+M0602,boa tarde tenho um problema urgente,financeiro,informal,0
+M0603,quando e a recorrencia de Programacao I?,notas,informal,0
+M0604,"perdi o recibo da propina, da pra tirar outro?",financeiro,informal,0
+M0605,o exame e amanha e ainda nao resolveram o meu caso,notas,informal,1
+M0606,nao consigo entrar no sistema pra confirmar a inscricao alguem ajuda,matricula,informal,1
+M0607,"Venho solicitar apoio, pois o pagamento efectuado nao desbloqueou o lancamento das notas.",matricula,formal,1
+M0608,"Solicito regularizacao urgente da minha situacao financeira, sob pena de perder a epoca de exames.",financeiro,formal,1
+M0609,O laboratorio esta encerrado e a avaliacao pratica de Redes de Computadores realiza-se amanha.,infraestrutura,formal,1
+M0610,a internet do laboratorio esta pessima ha dias,infraestrutura,informal,0
+M0611,ainda da para inscrever em Quimica Geral?,matricula,informal,0
+M0612,O laboratorio esta encerrado e a avaliacao pratica de Estatistica realiza-se amanha.,infraestrutura,formal,1
+M0613,nao percebi como calcularam a media de Estatistica!!,notas,informal,0
+M0614,Solicito o comprovativo de inscricao para apresentar na Tesouraria.,financeiro,formal,0
+M0615,preciso regularizar hoje senao perco os exames todos,financeiro,informal,0
+M0616,Solicito esclarecimento sobre o calculo da media final da disciplina de Bases de Dados.,notas,formal,0
+M0617,O laboratorio esta encerrado e a avaliacao pratica de Bases de Dados realiza-se amanha.,infraestrutura,formal,1
+M0618,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.!!,matricula,formal,1
+M0619,Gostaria de saber quais os documentos necessarios para requerer isencao de propinas.,financeiro,formal,0
+M0620,"perdi o recibo da propina, da pra tirar outro?",financeiro,informal,0
+M0621,"Bom dia. Solicito a publicacao da pauta de Programacao I, ainda em falta.",notas,formal,0
+M0622,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.",matricula,formal,1
+M0623,Boa tarde. Gostaria de saber se ainda e possivel inscrever-me na cadeira de Estatistica.,matricula,formal,0
+M0624,Solicito a emissao do certificado de notas do primeiro ano.!!,notas,formal,0
+M0625,disseram que vou ser excluido por falta de pagamento e o prazo acaba hoje,financeiro,informal,1
+M0626,queria pedir revisao da prova de Quimica Geral!!,notas,informal,0
+M0627,boa tarde tenho um problema urgente,matricula,informal,0
+M0628,a biblioteca nao me deixa levantar livros por causa da divida,matricula,informal,0
+M0629,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.,matricula,formal,1
+M0630,Solicito esclarecimento sobre os documentos exigidos para a renovacao da matricula.!!,matricula,formal,0
+M0631,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.",matricula,formal,0
+M0632,"Venho solicitar apoio, pois o pagamento efectuado nao desbloqueou o lancamento das notas.",financeiro,formal,0
+M0633,"Solicito regularizacao urgente da minha situacao financeira, sob pena de perder a epoca de exames.",financeiro,formal,1
+M0634,Solicito esclarecimento sobre o valor em divida apresentado no sistema.,financeiro,formal,0
+M0635,Boa tarde. Gostaria de saber se ainda e possivel inscrever-me na cadeira de Programacao I.,matricula,formal,0
+M0636,ate quando sai a pauta de Redes de Computadores?,notas,informal,0
+M0637,o laboratorio esta fechado e preciso submeter a inscricao online,infraestrutura,informal,1
+M0638,a internet nao funciona e por isso nao consegui submeter a inscricao a tempo,matricula,informal,1
+M0639,alguem me pode ajudar pfv,matricula,informal,0
+M0640,Bom dia. Venho por este meio solicitar informacao sobre o processo de matricula para o segundo ano.,matricula,formal,1
+M0641,O prazo de inscricao termina amanha e o sistema nao aceita a minha submissao. Solicito apoio urgente.!!,matricula,formal,1
+M0642,a internet nao funciona e por isso nao consegui submeter a inscricao a tempo,matricula,informal,1
+M0643,boa tarde tenho um problema urgente,financeiro,informal,1
+M0644,"Bom dia. Solicito a publicacao da pauta de Redes de Computadores, ainda em falta.!!",notas,formal,0
+M0645,"Solicito revisao da minha situacao: inscricao, propina e notas estao todas por regularizar.",matricula,formal,0
+M0646,preciso do certificado ate quinta pra bolsa senao perco,notas,informal,1
+M0647,"Solicito revisao da minha situacao: inscricao, propina e notas estao todas por regularizar.!!",matricula,formal,0
+M0648,Solicito a atencao dos servicos para o assunto em anexo.,notas,formal,0
+M0649,a biblioteca nao me deixa levantar livros por causa da divida,financeiro,informal,0
+M0650,"Solicito regularizacao urgente da minha situacao financeira, sob pena de perder a epoca de exames.",financeiro,formal,1
+M0651,"Preciso do certificado de notas ate quinta-feira para candidatura a bolsa, cujo prazo encerra nesse dia.",notas,formal,1
+M0652,Venho reportar que o balcao de atendimento esteve encerrado durante o prazo de pagamento.,financeiro,formal,1
+M0653,nao ha internet no campus e o prazo de Bases de Dados acaba hoje,infraestrutura,informal,1
+M0654,da pra usar o laboratorio fora do horario?,infraestrutura,informal,0
+M0655,"Prezados senhores, solicito a confirmacao da minha inscricao no corrente semestre.",matricula,formal,1
+M0656,Gostaria de confirmar a data da epoca de recorrencia de Analise Matematica.,notas,formal,0
+M0657,nao ha energia no bloco e o exame e hoje,infraestrutura,informal,0
+M0658,"Solicito regularizacao urgente da minha situacao financeira, sob pena de perder a epoca de exames.",financeiro,formal,1
+M0659,Gostaria de saber quais os documentos necessarios para requerer isencao de propinas.,financeiro,formal,0
+M0660,"reprovaram me mal em Algebra Linear e o exame e sexta, preciso resolver ja",notas,informal,0
+M0661,Venho solicitar informacao sobre o plano de pagamento faseado das propinas.!!,financeiro,formal,0
+M0662,gente o prazo acaba amanha e o sistema nao aceita minha inscricao socorro!!,matricula,informal,0
+M0663,boa tarde queria saber como faco a matricula do segundo ano,matricula,informal,0
+M0664,o pagamento nao validou e sem isso nao faco o exame de amanha,financeiro,informal,1
+M0665,a propina esta paga mas a inscricao em Estatistica continua bloqueada,matricula,informal,1
+M0666,"queria mudar de curso, o q preciso fazer",matricula,informal,0
+M0667,Informo que o assunto permanece por resolver e o prazo termina hoje.,financeiro,formal,1
+M0668,quando e a recorrencia de Algebra Linear?,notas,informal,1
+M0669,Efectuei o pagamento na semana passada e o sistema ainda nao regista a liquidacao.!!,financeiro,formal,0
+M0670,a biblioteca nao me deixa levantar livros por causa da divida,matricula,informal,1
