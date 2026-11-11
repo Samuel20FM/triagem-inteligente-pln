@@ -12,9 +12,9 @@ def at():
     return AppTest.from_file(APP, default_timeout=240).run()
 
 
-def test_app_arranca_com_sete_separadores(at):
+def test_app_arranca_so_com_classificar(at):
     assert not at.exception
-    assert len(at.tabs) == 7
+    assert len(at.tabs) == 1
 
 
 def test_app_classifica_mensagem(at):

@@ -50,6 +50,10 @@ Só o `app.py` importa o Streamlit. Os outros módulos podem ser usados e testad
 
 ## 3. Separadores
 
+> **Nota:** de momento a interface mostra **só o separador Classificar**. Os outros seis estão comentados no
+> `app.py` (bloco "SEPARADORES 2–7 DESACTIVADOS"); para os repor, basta descomentar esse bloco e a lista completa
+> em `st.tabs(...)`. A lógica (comparação, urgência, auditoria…) continua nos módulos e nos testes.
+
 | Separador | Conteúdo |
 |---|---|
 | **Classificar** | anonimização → categoria, confiança, P(urgente), prioridade e destino; grelha com as 6 combinações; termos que pesaram |
